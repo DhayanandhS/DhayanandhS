@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dhayanandh S</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
 
-<img align="roght" alt="Coding" width="400" src="https://i.pinimg.com/originals/fd/f7/b5/fdf7b5fa4b96f3f5d8bf72bacab0f7c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhayanandhs&label=Profile%20views&color=0e75b6&style=flat" alt="dhayanandhs" /> </p>
 

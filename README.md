@@ -54,8 +54,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhayanandhs&show_icons=true&locale=en&layout=compact" alt="dhayanandhs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhayanandhs&show_icons=true&locale=en" alt="dhayanandhs" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhayanandhs&show_icons=true&locale=en" alt="dhayanandhs" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhayanandhs&" alt="dhayanandhs" /></p>
 
-</div> ### <br clear="both"> <img src="https://raw.githubusercontent.com/DhayanandhS/DhayanandhS/output/snake.svg" alt="Snake animation" /> ###
+

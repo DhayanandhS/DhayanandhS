@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhayanandhs&label=Profile%20views&color=0e75b6&style=flat" alt="dhayanandhs" /> </p>
 
 <div align="center">
-🌱 I’m currently learning <strong>Java, Front-End.</strong>
+🌱 I’m currently learning <strong>Java DSA, Front-End.</strong>
 
 📫 How to reach me **dhayanandhs2003@gmail.com** 
 

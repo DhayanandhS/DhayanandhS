@@ -45,14 +45,15 @@
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DhayanandhS&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhayanandhS&theme=blue_navy&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhayanandhS&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DhayanandhS&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=DhayanandhS&theme=blue_navy&hide_border=false" /><br/>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhayanandhS&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=DhayanandhS&theme=blueberry&no-frame=true&no-bg=false&margin-w=4" /><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /><br/>
-  <!--<img src="https://github-contributor-stats.vercel.app/api?username=DhayanandhS&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" /> -->
+  <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=DhayanandhS&theme=blueberry&no-frame=true&no-bg=false&margin-w=4" /><br/>
+  <img loading="lazy" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /><br/>
+  <img loading="lazy" src="https://github-contributor-stats.vercel.app/api?username=DhayanandhS&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" />
 </div>
+
 
 
 
